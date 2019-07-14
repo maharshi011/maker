@@ -7,9 +7,14 @@ at the begging
 
 
 
+maharshi011-patch-1
 modifications nedded
 
 python 
 
 
-done with the chane
+docker 
+gstreamer
+
+finish
+r
